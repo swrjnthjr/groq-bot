@@ -1,0 +1,173 @@
+{
+  "large_cap": [
+    {
+      "name": "Vanguard 500 Index Fund",
+      "market_cap": "Large Cap",
+      "NAV": 414.35,
+      "listed_on": ["BSE", "NSE"],
+      "XIRR": {
+        "1_year": 12.5,
+        "3_year": 14.2,
+        "5_year": 11.8
+      }
+    },
+    {
+      "name": "Fidelity Blue Chip Growth Fund",
+      "market_cap": "Large Cap",
+      "NAV": 193.72,
+      "listed_on": ["BSE", "NSE"],
+      "XIRR": {
+        "1_year": 13.0,
+        "3_year": 15.8,
+        "5_year": 13.5
+      }
+    },
+    {
+      "name": "T. Rowe Price Large-Cap Growth Fund",
+      "market_cap": "Large Cap",
+      "NAV": 132.56,
+      "listed_on": ["BSE"],
+      "XIRR": {
+        "1_year": 10.8,
+        "3_year": 12.9,
+        "5_year": 14.1
+      }
+    },
+    {
+      "name": "BlackRock Large Cap Core Fund",
+      "market_cap": "Large Cap",
+      "NAV": 253.12,
+      "listed_on": ["NSE"],
+      "XIRR": {
+        "1_year": 14.2,
+        "3_year": 16.3,
+        "5_year": 15.0
+      }
+    },
+    {
+      "name": "Schwab Large-Cap Growth Fund",
+      "market_cap": "Large Cap",
+      "NAV": 67.89,
+      "listed_on": ["BSE", "NSE"],
+      "XIRR": {
+        "1_year": 11.9,
+        "3_year": 13.5,
+        "5_year": 12.7
+      }
+    }
+  ],
+  "mid_cap": [
+    {
+      "name": "Fidelity Mid Cap Index Fund",
+      "market_cap": "Mid Cap",
+      "NAV": 134.45,
+      "listed_on": ["BSE", "NSE"],
+      "XIRR": {
+        "1_year": 10.7,
+        "3_year": 14.5,
+        "5_year": 12.3
+      }
+    },
+    {
+      "name": "Vanguard Mid-Cap Growth Fund",
+      "market_cap": "Mid Cap",
+      "NAV": 221.76,
+      "listed_on": ["BSE"],
+      "XIRR": {
+        "1_year": 12.0,
+        "3_year": 15.0,
+        "5_year": 13.0
+      }
+    },
+    {
+      "name": "T. Rowe Price Mid-Cap Value Fund",
+      "market_cap": "Mid Cap",
+      "NAV": 189.32,
+      "listed_on": ["NSE"],
+      "XIRR": {
+        "1_year": 11.5,
+        "3_year": 13.8,
+        "5_year": 12.9
+      }
+    },
+    {
+      "name": "iShares Russell Mid-Cap ETF",
+      "market_cap": "Mid Cap",
+      "NAV": 97.54,
+      "listed_on": ["BSE", "NSE"],
+      "XIRR": {
+        "1_year": 13.2,
+        "3_year": 15.7,
+        "5_year": 14.4
+      }
+    },
+    {
+      "name": "Columbia Mid Cap Index Fund",
+      "market_cap": "Mid Cap",
+      "NAV": 54.63,
+      "listed_on": ["BSE"],
+      "XIRR": {
+        "1_year": 9.8,
+        "3_year": 11.6,
+        "5_year": 10.4
+      }
+    }
+  ],
+  "small_cap": [
+    {
+      "name": "Vanguard Small-Cap Index Fund",
+      "market_cap": "Small Cap",
+      "NAV": 345.22,
+      "listed_on": ["BSE", "NSE"],
+      "XIRR": {
+        "1_year": 14.5,
+        "3_year": 16.0,
+        "5_year": 15.7
+      }
+    },
+    {
+      "name": "Fidelity Small Cap Growth Fund",
+      "market_cap": "Small Cap",
+      "NAV": 87.19,
+      "listed_on": ["NSE"],
+      "XIRR": {
+        "1_year": 13.8,
+        "3_year": 15.2,
+        "5_year": 14.0
+      }
+    },
+    {
+      "name": "T. Rowe Price Small-Cap Value Fund",
+      "market_cap": "Small Cap",
+      "NAV": 126.78,
+      "listed_on": ["BSE"],
+      "XIRR": {
+        "1_year": 12.3,
+        "3_year": 14.5,
+        "5_year": 13.7
+      }
+    },
+    {
+      "name": "iShares Russell 2000 ETF",
+      "market_cap": "Small Cap",
+      "NAV": 56.23,
+      "listed_on": ["BSE", "NSE"],
+      "XIRR": {
+        "1_year": 15.0,
+        "3_year": 17.1,
+        "5_year": 16.0
+      }
+    },
+    {
+      "name": "American Century Small Cap Growth Fund",
+      "market_cap": "Small Cap",
+      "NAV": 43.98,
+      "listed_on": ["BSE"],
+      "XIRR": {
+        "1_year": 11.7,
+        "3_year": 13.6,
+        "5_year": 12.4
+      }
+    }
+  ]
+}
